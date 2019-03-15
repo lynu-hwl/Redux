@@ -1,0 +1,9 @@
+.itemContent{
+    display: inline-block;
+}
+.hideElement{
+    display: none;
+}
+.completeTodo{
+    text-decoration:line-through;
+}
